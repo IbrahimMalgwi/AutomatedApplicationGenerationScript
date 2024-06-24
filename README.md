@@ -1,1 +1,2 @@
 # AutomatedApplicationGenerationScript
+run ./springDemoApplication
